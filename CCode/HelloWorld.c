@@ -6,6 +6,7 @@ void Hello();
 
 int main(){
 	Hello();
+	Hello();
 	return 0;
 }
 
