@@ -11,5 +11,5 @@ int main(){
 
 void Hello(){	
 	printf("Hello World");
-	print(" From Priya ");
+	printf(" From Priya ");
 }
